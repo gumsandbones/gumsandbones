@@ -3,7 +3,9 @@
 We make small apps for Apple devices. No subscriptions, ads, or tracking. No small celebration every time you drink a glass of water.
 
 → [gumsandbones.com](https://gumsandbones.com)
+
 → [@gumsandbones.com on Bluesky](https://bsky.app/profile/gumsandbones.com)
+
 
 ## Apps
 
