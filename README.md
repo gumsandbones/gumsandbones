@@ -2,10 +2,11 @@
 
 # Gums & Bones
 
-We make small apps for Apple devices. No subscriptions, ads, or tracking. No small celebration every time you drink a glass of water.
+Quiet apps for Apple devices. No subscriptions, ads, or tracking. No small celebration every time you drink a glass of water.
 
 - [gumsandbones.com](https://gumsandbones.com)
 - [@gumsandbones.com on Bluesky](https://bsky.app/profile/gumsandbones.com)
+- [@gumsandbones@indieapps.space on Mastodon](https://indieapps.space/@gumsandbones)
 
 
 ## Apps
